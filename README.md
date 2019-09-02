@@ -1,2 +1,1 @@
-# OnlineBanking
-Online banking REST API
+# Banking-Application
